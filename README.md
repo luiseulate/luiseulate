@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Luis Eulate
+- 👋 Hi, I’m Luis Martínez
 - 👀 I’m interested in digital literacy to reduce risk of social exclusion
 - 🌱 I’m currently working as a social worker
-- 📫 You can contact me at hola@luiseulate.com
+- 🏔️ Love mountains
+- 📫 You can contact me at hola@luismartinez.io
 
 <!---
 luiseulate/luiseulate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
