@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Luis Martínez.
-- 🌱 I’m currently working as a social worker.
-- 🏔️ Love mountains.
+- 🏔️ I love mountains.
 - 📫 You can contact me at hola@luismartinez.io
 
 <!---
