@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis Martínez.
+- 👋 Hi, I’m Luis.
 - 🏔️ I love mountains.
 
 <!---
