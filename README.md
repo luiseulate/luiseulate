@@ -11,7 +11,7 @@ I love mountains.
 
 ### Now
 
-- 🌱 Learning something new every day.
-- 🚀 Building personal projects.
-- 🎥 Editing videos and photography.
-- 🥾 Mountains and nature.
+🌱 Learning something new every day.  
+🚀 Building personal projects.  
+🎥 Video editing and photography.  
+🥾 Mountains and nature.
