@@ -1,4 +1,4 @@
-👋 Hi, i’m Luis. I love mountains.
+👋 I’m Luis. I love mountains.
 
 <!---
 luiseulate/luiseulate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
