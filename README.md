@@ -2,12 +2,16 @@
 
 I love mountains.
 
-```ts
-const me = {
-  code: ["TypeScript", "JavaScript"],
-  framework: "Astro",
-  styling: "Tailwind CSS",
-  editor: "VS Code",
-  focus: "Performance & UX",
-};
-```
+## Stack
+
+- Astro
+- TypeScript
+- Tailwind CSS
+- React
+
+## Actualmente
+
+- 🌱 Learning something new every day.
+- 🚀 Building personal projects.
+- 🎥 Editing videos and photography.
+- 🥾 Mountains and nature.
