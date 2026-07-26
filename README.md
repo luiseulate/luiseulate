@@ -4,10 +4,10 @@ I love mountains.
 
 ### Stack
 
-- Astro
-- TypeScript
-- Tailwind CSS
-- React
+Astro
+TypeScript
+Tailwind CSS
+React
 
 ### Now
 
