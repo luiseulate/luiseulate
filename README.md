@@ -2,4 +2,4 @@
 
 ![README Banner](banner.jpg)
 
-![Hit Counter](https://komarev.com/ghpvc/?username=luiseulate&color=756A5B&style=for-the-badge&label=views&base=16070)
+![Hit Counter](https://komarev.com/ghpvc/?username=luiseulate&color=2596BE&style=for-the-badge&label=views&base=EBEBB7)
