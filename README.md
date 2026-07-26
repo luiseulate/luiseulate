@@ -11,7 +11,3 @@ const me = {
   focus: "Performance & UX",
 };
 ```
-
-Building simple, fast and accessible websites.
-
-→ https://luis.cafe
