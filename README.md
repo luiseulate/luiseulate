@@ -1,4 +1,4 @@
-## Hi, I'm Luis 👋
+### Hi, I'm Luis 👋
 
 I love mountains.
 
@@ -12,7 +12,7 @@ const me = {
 };
 ```
 
-### Now
+#### Now
 
 🌱 Learning something new every day.  
 🚀 Building personal projects.  
