@@ -1,15 +1,15 @@
-# Hi, I'm Luis 👋
+## Hi, I'm Luis 👋
 
 I love mountains.
 
-## Stack
+### Stack
 
 - Astro
 - TypeScript
 - Tailwind CSS
 - React
 
-## Actualmente
+### Now
 
 - 🌱 Learning something new every day.
 - 🚀 Building personal projects.
